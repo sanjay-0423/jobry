@@ -1,0 +1,49 @@
+Professional Details:
+	- Profession
+	- Qualification
+	- Language you speak
+	- Totle yesres of experience 
+	- Social media 
+	- 
+	
+Personal Details:
+	- img
+	- name
+	- email
+	- phone
+	- DOB
+	- Gender 
+	- Address
+	- postal Code
+
+Educatino:
+	- Courese / Degree
+	- School / University
+	- Grade / Score
+	- Year
+
+Experience: 
+	- Work Experience
+		- - Compnay Name
+		- - Job Title
+		- - Job period (start date and End date)
+		- - description
+
+Skills:
+	- Skills name
+	- Skills Level
+		- - Beginner
+		- - Intermediate
+		- - Advanced
+		- - Expert
+		- - Professional
+
+Achievements & Awards : 
+	- Title 
+	- Description
+
+Projects: 
+	- img
+	- Title
+	- Description
+	- Project based on
